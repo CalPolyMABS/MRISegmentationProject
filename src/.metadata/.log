@@ -1,0 +1,135 @@
+!SESSION 2014-05-28 17:31:42.140 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-05-28 17:43:27.987
+!MESSAGE Indexed 'Tools' (14 sources, 269 headers) in 16.69 sec: 44,843 declarations; 71,145 references; 55 unresolved inclusions; 32 syntax errors; 1,131 unresolved names (0.97%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-05-28 17:43:40.746
+!MESSAGE Indexed 'MRIPCL' (10 sources, 613 headers) in 12.74 sec: 64,216 declarations; 110,033 references; 114 unresolved inclusions; 39 syntax errors; 2,081 unresolved names (1.18%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-05-28 17:43:49.467
+!MESSAGE Indexed 'MRIOpenCV' (11 sources, 608 headers) in 8.72 sec: 64,335 declarations; 111,822 references; 35 unresolved inclusions; 39 syntax errors; 743 unresolved names (0.42%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-05-28 17:43:54.914
+!MESSAGE Indexed 'MRICommon' (7 sources, 288 headers) in 5.44 sec: 52,124 declarations; 81,603 references; 7 unresolved inclusions; 10 syntax errors; 574 unresolved names (0.43%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-05-28 17:44:04.304
+!MESSAGE Indexed 'Test' (12 sources, 646 headers) in 9.38 sec: 67,269 declarations; 120,843 references; 208 unresolved inclusions; 39 syntax errors; 1,428 unresolved names (0.75%)
+!SESSION 2014-07-16 16:47:06.572 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-07-16 16:47:11.591
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-07-25 14:10:00.749 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-07-25 14:10:50.075
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-07-30 02:28:51.950 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-07-30 02:28:56.172
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-08-05 22:43:25.621 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-05 22:43:28.521
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-08-07 22:20:31.706 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-07 22:20:34.757
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-08-08 22:30:14.082 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-08 22:30:16.930
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-08-14 20:30:19.318 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_31
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-14 20:30:24.024
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-08-14 20:33:22.036
+!MESSAGE Indexed 'LoggingTool' (0 sources, 76 headers) in 1.15 sec: 2,139 declarations; 2,375 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+!SESSION 2014-08-18 08:42:22.882 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_32
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-18 08:42:25.872
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-08-18 10:55:49.985
+!MESSAGE Indexed 'Hip' (8 sources, 610 headers) in 9.80 sec: 64,399 declarations; 112,222 references; 40 unresolved inclusions; 39 syntax errors; 749 unresolved names (0.42%)
+!SESSION 2014-08-21 16:09:30.752 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_32
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-08-22 12:09:59.698
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2014-09-05 19:38:21.076 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:39:41.875
+!MESSAGE Indexed 'Hip' (8 sources, 724 headers) in 50.33 sec: 71,202 declarations; 150,492 references; 40 unresolved inclusions; 1 syntax errors; 104 unresolved names (0.05%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:40:10.023
+!MESSAGE Indexed 'LoggingTool' (1 sources, 769 headers) in 27.87 sec: 62,334 declarations; 142,267 references; 5 unresolved inclusions; 1 syntax errors; 47 unresolved names (0.02%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:40:22.672
+!MESSAGE Indexed 'MRICommon' (7 sources, 263 headers) in 12.35 sec: 51,552 declarations; 83,834 references; 7 unresolved inclusions; 0 syntax errors; 60 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:40:37.691
+!MESSAGE Indexed 'MRIOpenCV' (6 sources, 722 headers) in 15.01 sec: 70,707 declarations; 147,766 references; 40 unresolved inclusions; 1 syntax errors; 71 unresolved names (0.03%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:40:56.802
+!MESSAGE Indexed 'MRIPCL' (8 sources, 736 headers) in 19.11 sec: 71,468 declarations; 148,932 references; 119 unresolved inclusions; 1 syntax errors; 1,436 unresolved names (0.65%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:41:15.981
+!MESSAGE Indexed 'Test' (13 sources, 773 headers) in 19.17 sec: 75,695 declarations; 162,239 references; 223 unresolved inclusions; 1 syntax errors; 908 unresolved names (0.38%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-05 19:41:22.430
+!MESSAGE Indexed 'Tools' (14 sources, 249 headers) in 6.44 sec: 44,754 declarations; 73,069 references; 55 unresolved inclusions; 22 syntax errors; 628 unresolved names (0.53%)
